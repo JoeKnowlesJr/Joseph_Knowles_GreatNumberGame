@@ -1,0 +1,28 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	justify-content: center;
+}
+
+.no {
+			text-align: center;
+			color: white;
+			width: 160px;
+			height: 100px;
+			background-color: red;
+			margin-bottom: 10px;
+			padding: 10px;
+}
+
+.yes {
+			text-align: center;
+			color: white;
+			width: 160px;
+			height: 100px;
+			background-color: green;
+			margin-bottom: 10px;
+			padding: 10px;
+}
